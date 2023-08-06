@@ -1,0 +1,33 @@
+2023-08-06 08:47:48.574275 - Initialized conversion of CBT973
+2023-08-06 08:47:49.733205 - Received CBT.V505.FILE973.PDS from FILE973.XMI 
+2023-08-06 08:47:49.735633 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:47:49.736700 - Found $PDSLOA$.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/$PDSLOA$
+2023-08-06 08:47:49.737650 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/$PDSLOAD
+2023-08-06 08:47:49.738630 - Found @FILE973.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/@FILE973
+2023-08-06 08:47:49.738640 - Found AWSTAPE.bin containing application/octet-stream, moved to PDS/AWSTAPE
+2023-08-06 08:47:49.751526 - Found ERRTEXTS.xmi (application/xmit) in CBT.V505.FILE973.PDS
+2023-08-06 08:47:49.754986   - Received to CBT973/WATFIV.ERRTEXTS
+2023-08-06 08:47:49.755087 - Found FUNLIB.bin containing application/octet-stream, moved to PDS/FUNLIB
+2023-08-06 08:47:49.756035 - Found FUNLIB@.bin containing application/octet-stream, moved to PDS/FUNLIB@
+2023-08-06 08:47:49.772135 - Found JOBLIB.xmi (application/xmit) in CBT.V505.FILE973.PDS
+2023-08-06 08:47:49.778090   - Received RECFM=U data, stored XMIT file as CBT973/JOBLIB.xmi
+2023-08-06 08:47:49.779016 - Found MACLIB.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/MACLIB
+2023-08-06 08:47:49.779831 - Found MESSAGE.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/MESSAGE
+2023-08-06 08:47:49.815420 - Found OBJLIB.xmi (application/xmit) in CBT.V505.FILE973.PDS
+2023-08-06 08:47:49.837054   - Received RECFM=U data, stored XMIT file as CBT973/OBJLIB.xmi
+2023-08-06 08:47:49.842742 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE973.PDS
+2023-08-06 08:47:49.850328   - Received RECFM=U data, stored XMIT file as CBT973/PDSLOAD.xmi
+2023-08-06 08:47:49.851330 - Found PDSUR.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PDSUR
+2023-08-06 08:47:49.852198 - Found PDSUR$.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PDSUR$
+2023-08-06 08:47:49.853179 - Found PDSUR$$.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PDSUR$$
+2023-08-06 08:47:49.854058 - Found PDSUR@.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PDSUR@
+2023-08-06 08:47:49.854967 - Found PDSURP1.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PDSURP1
+2023-08-06 08:47:49.855912 - Found PLOTLIB.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PLOTLIB
+2023-08-06 08:47:49.856787 - Found PROCLIB.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/PROCLIB
+2023-08-06 08:47:49.857663 - Found RELOAD.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/RELOAD
+2023-08-06 08:47:49.857672 - Found SOURCE.bin containing application/octet-stream, moved to PDS/SOURCE
+2023-08-06 08:47:49.861350 - Found TESTS.bin containing application/octet-stream, moved to PDS/TESTS
+2023-08-06 08:47:49.864446 - De-xmi-ed UGUIDE to CBT973/docs/UGUIDE.pdf
+2023-08-06 08:47:49.865499 - Found WATLIB.txt (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/WATLIB
+2023-08-06 08:47:49.866496 - Found WATTEST.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/WATTEST
+2023-08-06 08:47:49.867442 - Found WATTEST$.jcl (text/plain) in CBT.V505.FILE973.PDS, moved to PDS/WATTEST$

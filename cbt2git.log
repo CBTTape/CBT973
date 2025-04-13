@@ -1,0 +1,54 @@
+2025-04-14 00:37:03.557530 - Received CBT.V508.FILE973.PDS from FILE973.XMI 
+2025-04-14 00:37:03.559061 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:37:03.559137 - Found $PDSLOA$.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/$PDSLOA$
+2025-04-14 00:37:03.559200 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/$PDSLOAD
+2025-04-14 00:37:03.559258 - Found @FILE973.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/@FILE973
+2025-04-14 00:37:03.561927 - Found AWSTAPE.bin (application/octet-stream) in CBT.V508.FILE973.PDS, moved to PDS/AWSTAPE
+2025-04-14 00:37:03.562048 - Found ERRTEXTS.xmi (application/xmit) in CBT.V508.FILE973.PDS, moved to PDS/ERRTEXTS.xmi
+2025-04-14 00:37:03.570401 - Received SBGOLOB.WATFIV.ERRTEXTS from ERRTEXTS.xmi 
+2025-04-14 00:37:03.570548 - Found SBGOLOB.WATFIV.ERRTEXTS.bin (application/octet-stream), moved to ERRTEXTS/SBGOLOB.WATFIV.ERRTEXTS
+2025-04-14 00:37:03.570725 - Found FUNLIB.bin (application/octet-stream) in CBT.V508.FILE973.PDS, moved to PDS/FUNLIB
+2025-04-14 00:37:03.570825 - Found FUNLIB@.bin (application/octet-stream) in CBT.V508.FILE973.PDS, moved to PDS/FUNLIB@
+2025-04-14 00:37:03.570952 - Found JOBLIB.xmi (application/xmit) in CBT.V508.FILE973.PDS, moved to PDS/JOBLIB.xmi
+2025-04-14 00:37:03.585895 - Received SBGOLOB.WATFIV.JOBLIB from JOBLIB.xmi 
+2025-04-14 00:37:03.586372 - Found WATFIV.bin (application/octet-stream) in SBGOLOB.WATFIV.JOBLIB, moved to JOBLIB/WATFIV
+2025-04-14 00:37:03.586658 - Found MACLIB.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/MACLIB
+2025-04-14 00:37:03.586736 - Found MESSAGE.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/MESSAGE
+2025-04-14 00:37:03.586881 - Found OBJLIB.xmi (application/xmit) in CBT.V508.FILE973.PDS, moved to PDS/OBJLIB.xmi
+2025-04-14 00:37:03.622827 - Received SBGOLOB.WATFIV.OBJLIB from OBJLIB.xmi 
+2025-04-14 00:37:03.623577 - Found ARITH.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/ARITH
+2025-04-14 00:37:03.623652 - Found DODO.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/DODO
+2025-04-14 00:37:03.623727 - Found ERROR.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/ERROR
+2025-04-14 00:37:03.623785 - Found FORMAT.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/FORMAT
+2025-04-14 00:37:03.623859 - Found FORMCONV.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/FORMCONV
+2025-04-14 00:37:03.623921 - Found FRIOSCAN.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/FRIOSCAN
+2025-04-14 00:37:03.623979 - Found FUNCTION.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/FUNCTION
+2025-04-14 00:37:03.624039 - Found INOUT.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/INOUT
+2025-04-14 00:37:03.624105 - Found LANDR.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/LANDR
+2025-04-14 00:37:03.624174 - Found MAIN.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/MAIN
+2025-04-14 00:37:03.624234 - Found NAMELIST.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/NAMELIST
+2025-04-14 00:37:03.624294 - Found SCAN.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/SCAN
+2025-04-14 00:37:03.624354 - Found SPEX.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/SPEX
+2025-04-14 00:37:03.624414 - Found STRPROG.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/STRPROG
+2025-04-14 00:37:03.624480 - Found WATERRS.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/WATERRS
+2025-04-14 00:37:03.624536 - Found WATIO.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/WATIO
+2025-04-14 00:37:03.624591 - Found WATLOAD.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/WATLOAD
+2025-04-14 00:37:03.624649 - Found ZMONTH.bin (application/octet-stream) in SBGOLOB.WATFIV.OBJLIB, moved to OBJLIB/ZMONTH
+2025-04-14 00:37:03.625031 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE973.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-14 00:37:03.630449 - Received SBGOLOB.LOAD from PDSLOAD.xmi 
+2025-04-14 00:37:03.630816 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-14 00:37:03.630867 - Found alias PDSLOADW to PDSLOAD in SBGOLOB.LOAD, moved to PDS/PDSLOADW
+2025-04-14 00:37:03.631072 - Found PDSUR.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PDSUR
+2025-04-14 00:37:03.631139 - Found PDSUR$.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PDSUR$
+2025-04-14 00:37:03.631204 - Found PDSUR$$.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PDSUR$$
+2025-04-14 00:37:03.631261 - Found PDSUR@.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PDSUR@
+2025-04-14 00:37:03.631318 - Found PDSURP1.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PDSURP1
+2025-04-14 00:37:03.631382 - Found PLOTLIB.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PLOTLIB
+2025-04-14 00:37:03.631444 - Found PROCLIB.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/PROCLIB
+2025-04-14 00:37:03.631500 - Found RELOAD.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/RELOAD
+2025-04-14 00:37:03.633412 - Found SOURCE.bin (application/octet-stream) in CBT.V508.FILE973.PDS, moved to PDS/SOURCE
+2025-04-14 00:37:03.633537 - Found TESTS.bin (application/octet-stream) in CBT.V508.FILE973.PDS, moved to PDS/TESTS
+2025-04-14 00:37:03.633981 - Found UGUIDE.pdf (application/pdf) in CBT.V508.FILE973.PDS, moved to docs/UGUIDE.pdf
+2025-04-14 00:37:03.634065 - Found WATLIB.txt (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/WATLIB
+2025-04-14 00:37:03.634143 - Found WATTEST.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/WATTEST
+2025-04-14 00:37:03.634204 - Found WATTEST$.jcl (text/plain) in CBT.V508.FILE973.PDS, moved to PDS/WATTEST$
